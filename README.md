@@ -54,9 +54,15 @@ Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için b
 ## ⭐  My Profile
 
   <div class="row">
+  <div clas="col-md-6">
     <img src="https://github-readme-stats.vercel.app/api?username=htcoztrk&show_icons=true&count_private=true&hide_border=true&theme=radical" />
 
+  </div>
+   <div clas="col-md-6">
+   
 <a href="https://github.com/htcoztrk"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=htcoztrk&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+
+  </div>
 
 </div>
 
