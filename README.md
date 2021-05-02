@@ -8,10 +8,10 @@
 <a href="https://www.linkedin.com/in/hatice-ozturk-75a456155/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://www.facebook.com/gokhankarakus38" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://twitter.com/htcoztrk" rel="nofollow"><img src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;">
 </a>
-<a href="https://instagram.com/gokhan.karakus38" target="_blank">
+
+<!-- <a href="https://instagram.com/htcoztrk025" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> -->
 <a href="mailto:ghaticeozturk0207@gmail.com" target="_blank">
@@ -48,7 +48,7 @@ Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için b
 </p>
 
 
+
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=htcoztrk&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
-
+<a href="https://github.com/htcoztrk"><img align="center" src="https://camo.githubusercontent.com/d9ff52a4cc4373927cb024b463905b00759e478d2192d3601c4740015e075263/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d656c6968566172696c63692662675f636f6c6f723d30643131313726746578745f636f6c6f723d626463336337267469746c655f636f6c6f723d66316334306626686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=htcoztrk&amp;bg_color=0d1117&amp;text_color=bdc3c7&amp;title_color=f1c40f&amp;hide_border=true&amp;layout=compact&amp;langs_count=10" style="max-width:100%;"></a>
