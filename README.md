@@ -1,6 +1,6 @@
 ## Hi, 👋 I'm Hatice Ozturk!  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=haticeozturk&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/haticeOzturk?style=social)  
+![Profile views counter](https://komarev.com/ghpvc/?username=haticeozturk&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/htcoztrk?style=social)  
 
 <a href="https://github.com/htcoztrk/haticeOzturk" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -50,5 +50,5 @@ Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için b
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=haticeOzturk&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=htcoztrk&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
