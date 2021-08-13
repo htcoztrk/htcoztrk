@@ -1,4 +1,31 @@
-## Hi, 👋 I'm Hatice Ozturk!  
+## Welcome to my github profile 👋 
+
+<ul>
+<!-- <li>
+<p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>Natural Language Understanding</strong></p>
+</li> -->
+<li>
+<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Spring Boot, .Net Core</strong></p>
+</li>
+<!-- <li>
+<p><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> I shoot tutorial videos and give live workshops at (see Playlists section) <a href="https://www.youtube.com/playlist?list=PL-gZN-RzY2q-hjuOfZCggDprM0UYPv_oI" rel="nofollow">YouTube</a></p>
+</li>
+<li>
+<p><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> I regularly write articles on <a href="https://medium.com/@merveenoyan" rel="nofollow">https://medium.com/@merveenoyan</a></p>
+</li>
+<li> -->
+<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Java, Spring Boot</strong></p>
+</li>
+<!-- <li>
+<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:merveenoyan@gmail.com">merveenoyan@gmail.com</a></strong></p>
+</li> -->
+</ul>
+
+
+
+
+
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=haticeozturk&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/htcoztrk?style=social)  
 
