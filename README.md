@@ -7,13 +7,14 @@
 <li>
 <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Spring Boot, .Net Core</strong></p>
 </li>
-<!-- <li>
-<p><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> I shoot tutorial videos and give live workshops at (see Playlists section) <a href="https://www.youtube.com/playlist?list=PL-gZN-RzY2q-hjuOfZCggDprM0UYPv_oI" rel="nofollow">YouTube</a></p>
+ <li>
+<p><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> I shoot tutorial videos. <a href="https://www.youtube.com/channel/UCcHR0tEkEG11qSZCFzdzmnQ" rel="nofollow">YouTube</a></p>
 </li>
+  <!--
 <li>
 <p><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> I regularly write articles on <a href="https://medium.com/@merveenoyan" rel="nofollow">https://medium.com/@merveenoyan</a></p>
-</li>
-<li> -->
+</li>-->
+<li> 
 <p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Java, Spring Boot</strong></p>
 </li>
 <!-- <li>
