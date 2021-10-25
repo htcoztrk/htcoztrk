@@ -26,10 +26,10 @@
 
 
 
+<!--
 
 
-
-![Profile views counter](https://komarev.com/ghpvc/?username=haticeozturk&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/htcoztrk?style=social)  
+![Profile views counter](https://komarev.com/ghpvc/?username=haticeozturk&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/htcoztrk?style=social)  -->
 
 <!--<a href="https://github.com/htcoztrk/" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
