@@ -1,23 +1,24 @@
 ## Welcome to my github profile 👋 
 
 <ul>
-<!-- <li>
-<p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>Natural Language Understanding</strong></p>
+<li>
+<p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>Spring Boot</strong></p>
 </li> 
 <li>
-<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Spring Boot, .Net Core</strong></p>
+<p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Java, Spring Boot, Microservice Architecture</strong></p>
 </li>
+ <!--
  <li>
 <p><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> I shoot tutorial videos. <a href="https://www.youtube.com/channel/UCcHR0tEkEG11qSZCFzdzmnQ" rel="nofollow">YouTube</a></p>
-</li>-->
-  <!--
+</li> -->
+  
 <li>
-<p><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> I regularly write articles on <a href="https://medium.com/@merveenoyan" rel="nofollow">https://medium.com/@merveenoyan</a></p>
-</li>-->
-<!-- 
+<p><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> I regularly write articles on <a href="https://medium.com/@haticeozturk" rel="nofollow">Medium</a></p>
+</li>
+
  <li> 
 <p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Java, Spring Boot</strong></p>
-</li> -->
+</li> 
 <!-- <li>
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:merveenoyan@gmail.com">merveenoyan@gmail.com</a></strong></p>
 </li> -->
@@ -26,10 +27,10 @@
 
 
 
-<!--
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=haticeozturk&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/htcoztrk?style=social)  -->
+
+![Profile views counter](https://komarev.com/ghpvc/?username=haticeozturk&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/htcoztrk?style=social)  
 
 <!--<a href="https://github.com/htcoztrk/" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
